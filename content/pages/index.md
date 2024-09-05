@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: This site has been hijacked...
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
