@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Tram got stolen?
 colors: colors-a
 date: '2023-04-05'
-client: Zagrebacki Elektricni Tramvaj
+client: Zagrebački Električni Tramvaj
 description: Crazy....
 featuredImage:
   type: ImageBlock
