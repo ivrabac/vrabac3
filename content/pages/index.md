@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions: []
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: ''
     actions: []
     projects:
       - content/pages/projects/project-one.md
