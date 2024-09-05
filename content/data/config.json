@@ -1,29 +1,21 @@
 {
     "type": "Config",
     "favicon": "/images/featured-Image6.jpg",
-    "header": {
-        "type": "Header",
-        "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Home",
-        "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            }
-        ],
-        "socialLinks": [],
-        "styles": {
-            "self": {
-                "width": "full"
-            }
-        }
-    },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "type": "Button",
+                "label": "home",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            }
+        ],
         "copyrightText": "All rights reserved © Vrabac 2025\n",
         "styles": {
             "self": {
