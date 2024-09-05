@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: VideoBlock
-  title: Title of the video
+  title: Grand Theft Tram
   url: 'https://www.youtube.com/watch?v=jhVmv9Tnpn4'
   elementId: ''
   autoplay: false
