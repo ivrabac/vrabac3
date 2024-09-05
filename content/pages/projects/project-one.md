@@ -7,7 +7,7 @@ client: Zagrebački Električni Tramvaj
 description: Crazy....
 featuredImage:
   type: ImageBlock
-  url: /images/hqdefault.jpg
+  url: /images/ZET.png
   altText: Project thumbnail image
 media:
   type: VideoBlock
