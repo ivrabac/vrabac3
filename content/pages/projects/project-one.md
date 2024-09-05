@@ -21,7 +21,7 @@ media:
   aspectRatio: '16:9'
 metaTitle: Ukraden tramvaj?
 metaDescription: Ukraden tramvaj u Zagrebu...
-addTitleSuffix: false
+addTitleSuffix: true
 ---
 Driving a tram is a unique and rewarding experience that combines precision, responsibility, and a touch of urban adventure. As you step into the driver’s cabin, you are immediately enveloped by a blend of anticipation and focus. The tram is more than just a mode of transport; it is a vessel that connects people, stories, and destinations across the city.
 
