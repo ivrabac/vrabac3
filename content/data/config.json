@@ -3,7 +3,19 @@
     "favicon": "/images/featured-Image6.jpg",
     "footer": {
         "type": "Footer",
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "type": "Button",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            }
+        ],
         "copyrightText": "All rights reserved © Vrabac 2025\n",
         "styles": {
             "self": {
