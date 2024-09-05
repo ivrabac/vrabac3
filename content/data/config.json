@@ -6,7 +6,7 @@
         "primaryLinks": [
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "home",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
