@@ -49,7 +49,7 @@
     "footer": {
         "type": "Footer",
         "primaryLinks": [],
-        "copyrightText": "All rights reserved. © Vrabac 2025.\n",
+        "copyrightText": "All rights reserved © Vrabac 2025\n",
         "styles": {
             "self": {
                 "width": "narrow",
